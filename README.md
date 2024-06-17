@@ -52,4 +52,4 @@ Charter                     83.45                  85.54            94.0        
 District                    76.92                  78.96            84.3               85.7               85.0
 Credits
 
-# Credit: Study Group, Class Recordings, Class Study Materials, XPert Learning Assistant 
+### Credit: Study Group, Class Recordings, Class Study Materials, XPert Learning Assistant 
